@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\Final\Final\mesh.h(103,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\Administrator\Desktop\Final\Final\model.h(100,30): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Final\Final\model.h(101,30): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Final\Final\model.h(102,30): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Final\Final\model.h(120,29): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\Final\Final\particle.h(25,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\Final\Final\particle.h(85,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(240,80): warning C4305: “参数”: 从“int”到“GLboolean”截断
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(240,43): warning C4309: “参数”: 截断常量值
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(242,98): warning C4305: “参数”: 从“int”到“GLboolean”截断
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(242,43): warning C4309: “参数”: 截断常量值
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(251,80): warning C4305: “参数”: 从“int”到“GLboolean”截断
+C:\Users\Administrator\Desktop\Final\Final\main.cpp(251,43): warning C4309: “参数”: 截断常量值
+  正在生成代码
+  1 of 925 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Final.vcxproj -> C:\Users\Administrator\Desktop\Final\x64\Release\Final.exe
